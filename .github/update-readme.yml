@@ -17,9 +17,8 @@ jobs:
         run: |
           echo "## 👨‍💻 Git Role" >> README.md
           echo "![Git Role Badge](https://img.shields.io/badge/Git%20Role-Developer-blue)" >> README.md
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-email@example.com'
+          git config --global user.name 'Hafiz Ali Ahmed'
+          git config --global user.email 'hafizaliahmed2004@gmail.com'
           git add README.md
           git commit -m 'Update Git role badge'
           git push
-
