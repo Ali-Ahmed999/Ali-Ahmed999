@@ -50,11 +50,11 @@ I'm always excited to work on:
 📚 Educational content for AI development
 
 ## 📫 Connect With Me
-![Portfolio] https://hafiz-aliahmed-portfolio.vercel.app/
-![LinkedIn] https://www.linkedin.com/in/hafizaliahmed/
-![Twitter] https://x.com/HafizAliAhmed9
-![Medium] https://medium.com/@hafizaliahmed2004
-![Email] hafizaliahmed2004@gmail.com
+Portfolio https://hafiz-aliahmed-portfolio.vercel.app/
+LinkedIn https://www.linkedin.com/in/hafizaliahmed/
+Twitter https://x.com/HafizAliAhmed9
+Medium https://medium.com/@hafizaliahmed2004
+Email hafizaliahmed2004@gmail.com
 
 ## 💬 Let's Build the Future of AI Together
 Whether you're looking to collaborate on an AI agent, discuss autonomous systems, or explore innovative automation solutions—my inbox is open. Let's create something extraordinary!
